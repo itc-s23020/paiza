@@ -6,3 +6,4 @@
 
 ##[hakkason]
 
+-[shortcut](./coode/syo-tokatto.py)
