@@ -7,3 +7,7 @@
 ##[hakkason]
 
 -[shortcut](./coode/syo-tokatto.py)
+
+- [longhair](./coode/long.py)
+
+- [pony](./coode/pony.py)
