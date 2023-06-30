@@ -6,7 +6,7 @@
 
 ##[hakkason]
 
--[shortcut](./coode/syo-tokatto.py)
+- [shortcut](./coode/syo-tokatto.py)
 
 - [longhair](./coode/long.py)
 
@@ -15,3 +15,9 @@
 - [tuin](./coode/tuin.py)
 
 - [tareme](./coode/tareme.py)
+
+- [turime](./coode/turime.py)
+
+- [megane](./coode/megane.py)
+
+- [cute](./coode/cute.py)
